@@ -1,6 +1,6 @@
 package com.arloor.proxycommon.Handler;
 
-;
+
 import com.arloor.proxycommon.httpentity.HttpRequest;
 import com.arloor.proxycommon.util.ExceptionUtil;
 import io.netty.buffer.ByteBuf;
